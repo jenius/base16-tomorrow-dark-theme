@@ -1,0 +1,11 @@
+{
+  "name": "pastel-dark-theme",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Dark subtle theme for Atom",
+  "repository": "https://github.com/jenius/dark-pastel-atom-theme",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.49.0"
+  }
+}
